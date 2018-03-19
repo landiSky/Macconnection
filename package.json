@@ -1,0 +1,8 @@
+{
+  "name": "Macconnection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:landiSky/Macconnection.git",
+  "author": "landi",
+  "license": "MIT"
+}
